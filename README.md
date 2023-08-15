@@ -34,7 +34,7 @@ My name is Bartek and I'm aspiring Web Developer. I really love to learn new thi
 
 <br/>
 
-# 📈 GitHub Stats :
+# 📈 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=barteknr1&theme=2077)
 
@@ -44,10 +44,10 @@ My name is Bartek and I'm aspiring Web Developer. I really love to learn new thi
 
 # 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/1188347557)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michal-stepien)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bartek.branski.7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barteknr1/)
 
-Portfolio website: [www.michal-stepien.com](https://michal-stepien.com)
+<!-- Portfolio website: -->
 
 <br/>
 
