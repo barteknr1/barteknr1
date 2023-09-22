@@ -38,7 +38,7 @@ My name is Bartek and I'm aspiring Web Developer. I really love to learn new thi
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=barteknr1&theme=2077)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=barteknr1&theme=dark&border_radius=25&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=barteknr1&theme=dark&border_radius=25&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats) -->
 
 <br/>
 
