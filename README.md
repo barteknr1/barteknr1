@@ -29,7 +29,7 @@ My name is Bartek and I'm aspiring Web Developer. I really love to learn new thi
 
 ### 🛠️ Tools
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
 ![GIT](https://img.shields.io/badge/git-CA4245.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
