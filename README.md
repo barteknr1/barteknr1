@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 ### Hi there 👋
-My name is Bartek and I'm aspiring Web Developer. I really love to learn new things. Welcome to my profile!
+My name is Bartek and I'm aspiring Frontend Developer. I really love to learn new things. Welcome to my profile!
 
 # 💻 Tech Stack
 
